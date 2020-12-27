@@ -1,0 +1,7 @@
+(Server)Host:www.boe-systems.co.uk
+
+UserName:freelancer@boe-systems.co.uk
+
+UserPassword:freelancer@boe-systems.co.uk
+
+repository:zDevTest
